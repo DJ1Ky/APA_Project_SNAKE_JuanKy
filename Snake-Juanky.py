@@ -13,6 +13,16 @@ fletxa = turtle.Turtle()  # creem la fletxa que apuntará la direcció de la ser
 for i in range (0,4):    # creem el loop for per optimitzar el codi de les dues instruccions 
     fletxa.forward(100)  # la fletxa avançará 100 posicions 
     fletxa.left(90)      # la fletxa fará un gir de 90 graus cap a l'esquerra
+    
+     mes jocs: 
+
+    https://grantjenks.com/docs/freegames/memory.html
+
+    https://grantjenks.com/docs/freegames/pacman.html
+
+    https://grantjenks.com/docs/freegames/flappy.html
+
+    https://grantjenks.com/docs/freegames/snake.html
 
 '''
 
